@@ -1,5 +1,5 @@
 # LinuxHCF
-Core hcf para pocketmine pm5
+Core hcf para pocketmine pm5/n
 Esta core es libre de uso
 todas las personas son 
 libres de usar esta core
